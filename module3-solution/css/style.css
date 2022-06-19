@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+
+#navbarSupportedContent ul{
+  text-align: center;
+  color: lightslategray;
+}
+.container-fluid a:hover{
+  text-decoration: none;
+  font-weight: bold;
+
+  color: lightslategray;
+}
+.container-fluid a{
+  text-decoration: none;
+  font-weight: bold;
+  color: lightslategray;
+}
+
+.navbar{
+  background-color:#eeeeff!important;
+}
+
+#heading1{
+  color: lightslategray;
+  text-align: center;
+}
+#navBrand{
+  width: 100px;
+}
+
+@media (min-width: 992px) {
+  #navContent{
+    padding-right: 100px;
+  }
+}
+.sections{
+  margin: 2em;
+  padding: 2em;
+  background-color: eeeeff;
+  text-align: center;  
+}
+.space{
+  height: 300px;
+}
