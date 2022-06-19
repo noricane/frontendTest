@@ -31,8 +31,8 @@
 }
 @media (max-width: 766px){
   .articles{
-    padding: 0.5em;
-    margin: 0.5em;
+    padding: 1em;
+    margin: 1em 0.5em;
   }
 }
 @media (min-width: 767px) and (max-width: 991px){
@@ -47,7 +47,7 @@
   }
   .articles{
     padding: 2em;
-    margin: 2em;
+    margin: 1em 2em;
   }
 }
 
