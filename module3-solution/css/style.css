@@ -29,19 +29,25 @@
 #navBrand{
   width: 100px;
 }
-
+@media (max-width: 991px){
+  .articles{
+    padding: 1em;
+    margin: 1em;
+  }
+}
 @media (min-width: 992px) {
   #navContent{
     padding-right: 100px;
-    
-    
+  }
+  .articles{
+    padding: 2em;
+    margin: 2em;
   }
 }
 
 .articles{
   background-color: eeeeff;
-  padding: 2em;
-  margin: 2em;
+ 
 
   text-align: center;  
 }
