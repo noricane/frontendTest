@@ -33,14 +33,20 @@
 @media (min-width: 992px) {
   #navContent{
     padding-right: 100px;
+    
+    
   }
 }
-.sections{
-  margin: 2em;
-  padding: 2em;
+
+.articles{
   background-color: eeeeff;
+  padding: 2em;
+  margin: 2em;
+
   text-align: center;  
 }
 .space{
-  height: 300px;
+  margin-top: 2em;
+  height: 600px;
 }
+
